@@ -8,9 +8,9 @@ public class Compute {
 
     public static void main(String[] args) {
 
-        int groupsNumber = 7;
+        int groupsNumber = 6;
         int personsNumber = 39;
-        int groupCapacity = 6;
+        int groupCapacity = 7;
 
         // int groupsNumber = 3;
         // int personsNumber = 9;
