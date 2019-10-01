@@ -9,18 +9,27 @@ public class Compute {
     public static void main(String[] args) {
 
         int groupsNumber = 7;
-        int personsNumber = 42;
+        int personsNumber = 39;
         int groupCapacity = 6;
 
         // int groupsNumber = 3;
         // int personsNumber = 9;
         // int groupCapacity = 3;
 
+        String names[] = { "Adamski Yoaan", "Sanches Bérangère", "Schneider Pierre", "Barbosa Laurie", "Job Margot",
+                "Weyders Valentine", "Frem Hayat", "El Filali Camilia", "Smili Catherine", "Dubois-Julien Maeva",
+                "Lemal Daniel", "Garbi Anne-Sohpie", "Malaj Cléa", "Loukili El Mehdi", "Ze Npoah Rose Christelle",
+                "Escure Tatiana", "Pignatelli Gina", "Rock Mélissa", "Sauter Léa", "Gillet Sabrina",
+                "Habibova Banovsha", "Stelitano Yoann", "Casanova Samuel", "Csehi Mégane", "Skrijelj Sabrina",
+                "Beck Nicolas", "Lett Eva", "Ziri Nabila", "Gravejat Mélanie", "Laria Claire", "Taube Fabienne",
+                "Denis Justine", "Mascarell Mélanie", "Delaleux Héléna", "Ndombelé Aicha", "Mangin Alice",
+                "Bret Brandon", "Garattoni Charlène", "Scholtus Tiphaine" };
+
         final List<Person> personsPool = new ArrayList<>(personsNumber);
         final Map<Person, Group> personsInContact = new HashMap<>();
 
         for (int i = 0; i < personsNumber; i++) {
-            Person p = new Person("Person " + (i + 1));
+            Person p = new Person(names[i]);
             personsPool.add(p);
             personsInContact.put(p, new Group(personsNumber));
         }
@@ -31,13 +40,17 @@ public class Compute {
         int turn = 1;
         int completed = 0;
         int lastCompleted = -1;
-        while (((completed = everyBodyContact(personsInContact)) == 0 || completed != lastCompleted) && turn < 20) {
+        while (((completed = everyBodyContact(personsInContact)) == 0 || completed != lastCompleted) && turn < 8) {
             lastCompleted = completed;
-            System.out.println(String.format("******* TURN %s ******%n", turn));
+            System.out.println(String.format("** ROUND %s", turn));
 
             Groups currentTurn = new Groups(groupsNumber, groupCapacity);
             Group personsRemaining = new Group(personsNumber);
-            for (Person person : personsPool) {
+
+            int randomStart = (int) (Math.random() * personsPool.size());
+            for (int p = 0; p<personsPool.size(); p++) {
+
+                Person person = personsPool.get((randomStart + p) % personsPool.size());
 
                 Group personInContact = personsInContact.get(person);
                 Group foundedGroup = findGroupFor(currentTurn, person, personInContact);
@@ -69,11 +82,10 @@ public class Compute {
 
             Set<Person> persons = personsInContact.keySet();
             for (Person person : persons) {
-                if (!verifyPerson(currentTurn, person))
-                {
-                    System.out.println("Failed for "+person);
+                if (!verifyPerson(currentTurn, person)) {
+                    System.out.println("Failed for " + person);
                 }
-                
+
             }
 
             turn++;

@@ -1,0 +1,101 @@
+
+
+** ROUND 1
+TABLE: (6)  Garattoni Charlène,  Bret Brandon,  Scholtus Tiphaine,  Ndombelé Aicha,  Mangin Alice,  Adamski Yoaan, 
+TABLE: (6)  Job Margot,  Schneider Pierre,  Weyders Valentine,  Barbosa Laurie,  Sanches Bérangère,  Frem Hayat, 
+TABLE: (6)  Dubois-Julien Maeva,  Lemal Daniel,  Malaj Cléa,  Smili Catherine,  Garbi Anne-Sohpie,  El Filali Camilia, 
+TABLE: (6)  Sauter Léa,  Ze Npoah Rose Christelle,  Pignatelli Gina,  Loukili El Mehdi,  Escure Tatiana,  Rock Mélissa, 
+TABLE: (6)  Habibova Banovsha,  Skrijelj Sabrina,  Stelitano Yoann,  Gillet Sabrina,  Casanova Samuel,  Csehi Mégane, 
+TABLE: (6)  Beck Nicolas,  Gravejat Mélanie,  Taube Fabienne,  Laria Claire,  Ziri Nabila,  Lett Eva, 
+TABLE: (3)  Denis Justine,  Delaleux Héléna,  Mascarell Mélanie, 
+** ROUND 2
+TABLE: (6)  Denis Justine,  Beck Nicolas,  Ndombelé Aicha,  Csehi Mégane,  Sanches Bérangère,  El Filali Camilia, 
+TABLE: (6)  Skrijelj Sabrina,  Schneider Pierre,  Lett Eva,  Mangin Alice,  Smili Catherine,  Mascarell Mélanie, 
+TABLE: (6)  Dubois-Julien Maeva,  Bret Brandon,  Ziri Nabila,  Barbosa Laurie,  Delaleux Héléna,  Loukili El Mehdi, 
+TABLE: (6)  Garattoni Charlène,  Job Margot,  Gravejat Mélanie,  Lemal Daniel,  Ze Npoah Rose Christelle,  Gillet Sabrina, 
+TABLE: (6)  Habibova Banovsha,  Laria Claire,  Weyders Valentine,  Scholtus Tiphaine,  Garbi Anne-Sohpie,  Escure Tatiana, 
+TABLE: (6)  Malaj Cléa,  Taube Fabienne,  Stelitano Yoann,  Pignatelli Gina,  Frem Hayat,  Adamski Yoaan, 
+TABLE: (3)  Sauter Léa,  Casanova Samuel,  Rock Mélissa, 
+** ROUND 3
+TABLE: (6)  Job Margot,  Beck Nicolas,  Bret Brandon,  Stelitano Yoann,  Garbi Anne-Sohpie,  Mascarell Mélanie, 
+TABLE: (6)  Denis Justine,  Garattoni Charlène,  Malaj Cléa,  Barbosa Laurie,  Casanova Samuel,  Lett Eva, 
+TABLE: (6)  Lemal Daniel,  Weyders Valentine,  Ziri Nabila,  Mangin Alice,  Csehi Mégane,  Pignatelli Gina, 
+TABLE: (6)  Skrijelj Sabrina,  Gravejat Mélanie,  Ndombelé Aicha,  Delaleux Héléna,  Frem Hayat,  Escure Tatiana, 
+TABLE: (6)  Laria Claire,  Smili Catherine,  Gillet Sabrina,  Sanches Bérangère,  Loukili El Mehdi,  Adamski Yoaan, 
+TABLE: (6)  Schneider Pierre,  Taube Fabienne,  Sauter Léa,  Scholtus Tiphaine,  Ze Npoah Rose Christelle,  El Filali Camilia, 
+TABLE: (3)  Dubois-Julien Maeva,  Habibova Banovsha,  Rock Mélissa, 
+** ROUND 4
+TABLE: (6)  Lemal Daniel,  Stelitano Yoann,  Scholtus Tiphaine,  Lett Eva,  Delaleux Héléna,  Sanches Bérangère, 
+TABLE: (6)  Dubois-Julien Maeva,  Beck Nicolas,  Casanova Samuel,  Mangin Alice,  Ze Npoah Rose Christelle,  Frem Hayat, 
+TABLE: (6)  Gravejat Mélanie,  Barbosa Laurie,  Csehi Mégane,  Rock Mélissa,  Mascarell Mélanie,  Adamski Yoaan, 
+TABLE: (6)  Skrijelj Sabrina,  Denis Justine,  Job Margot,  Sauter Léa,  Ziri Nabila,  Gillet Sabrina, 
+TABLE: (6)  Schneider Pierre,  Malaj Cléa,  Laria Claire,  Ndombelé Aicha,  Pignatelli Gina,  Garbi Anne-Sohpie, 
+TABLE: (5)  Taube Fabienne,  Bret Brandon,  Weyders Valentine,  Smili Catherine,  Escure Tatiana, 
+TABLE: (4)  Garattoni Charlène,  Habibova Banovsha,  Loukili El Mehdi,  El Filali Camilia, 
+** ROUND 5
+TABLE: (6)  Dubois-Julien Maeva,  Garattoni Charlène,  Denis Justine,  Sanches Bérangère,  Escure Tatiana,  Mascarell Mélanie, 
+TABLE: (6)  Schneider Pierre,  Lemal Daniel,  Gravejat Mélanie,  Taube Fabienne,  Casanova Samuel,  Loukili El Mehdi, 
+TABLE: (6)  Bret Brandon,  Laria Claire,  Barbosa Laurie,  Gillet Sabrina,  Pignatelli Gina,  El Filali Camilia, 
+TABLE: (6)  Job Margot,  Stelitano Yoann,  Ziri Nabila,  Smili Catherine,  Delaleux Héléna,  Rock Mélissa, 
+TABLE: (6)  Skrijelj Sabrina,  Malaj Cléa,  Weyders Valentine,  Scholtus Tiphaine,  Ndombelé Aicha,  Ze Npoah Rose Christelle, 
+TABLE: (6)  Sauter Léa,  Lett Eva,  Mangin Alice,  Csehi Mégane,  Frem Hayat,  Garbi Anne-Sohpie, 
+TABLE: (3)  Habibova Banovsha,  Beck Nicolas,  Adamski Yoaan, 
+** ROUND 6
+TABLE: (6)  Dubois-Julien Maeva,  Skrijelj Sabrina,  Job Margot,  Schneider Pierre,  Taube Fabienne,  Pignatelli Gina, 
+TABLE: (6)  Lemal Daniel,  Beck Nicolas,  Barbosa Laurie,  Smili Catherine,  Delaleux Héléna,  Escure Tatiana, 
+TABLE: (6)  Denis Justine,  Garattoni Charlène,  Frem Hayat,  Garbi Anne-Sohpie,  Loukili El Mehdi,  Adamski Yoaan, 
+TABLE: (6)  Malaj Cléa,  Laria Claire,  Scholtus Tiphaine,  Gillet Sabrina,  Mangin Alice,  Rock Mélissa, 
+TABLE: (6)  Habibova Banovsha,  Bret Brandon,  Ze Npoah Rose Christelle,  Lett Eva,  Csehi Mégane,  Sanches Bérangère, 
+TABLE: (5)  Gravejat Mélanie,  Sauter Léa,  Weyders Valentine,  Stelitano Yoann,  El Filali Camilia, 
+TABLE: (4)  Ziri Nabila,  Ndombelé Aicha,  Casanova Samuel,  Mascarell Mélanie, 
+** ROUND 7
+TABLE: (6)  Denis Justine,  Habibova Banovsha,  Dubois-Julien Maeva,  Gravejat Mélanie,  Malaj Cléa,  Mangin Alice, 
+TABLE: (6)  Beck Nicolas,  Taube Fabienne,  Weyders Valentine,  Scholtus Tiphaine,  Frem Hayat,  Mascarell Mélanie, 
+TABLE: (6)  Garattoni Charlène,  Schneider Pierre,  Stelitano Yoann,  Smili Catherine,  Delaleux Héléna,  Csehi Mégane, 
+TABLE: (6)  Sauter Léa,  Laria Claire,  Barbosa Laurie,  Ndombelé Aicha,  Ze Npoah Rose Christelle,  Pignatelli Gina, 
+TABLE: (6)  Skrijelj Sabrina,  Lemal Daniel,  Bret Brandon,  Gillet Sabrina,  Lett Eva,  Rock Mélissa, 
+TABLE: (6)  Job Margot,  Casanova Samuel,  Escure Tatiana,  Loukili El Mehdi,  Adamski Yoaan,  El Filali Camilia, 
+TABLE: (3)  Ziri Nabila,  Sanches Bérangère,  Garbi Anne-Sohpie, 
+
+
+Nombre de personnes en contacts par personne :  
+
+Dubois-Julien Maeva = 28
+Malaj Cléa = 27
+Beck Nicolas = 29
+Taube Fabienne = 26
+Barbosa Laurie = 31
+Mangin Alice = 29
+Frem Hayat = 29
+Mascarell Mélanie = 28
+Habibova Banovsha = 25
+Sauter Léa = 26
+Ndombelé Aicha = 27
+Csehi Mégane = 30
+Sanches Bérangère = 29
+Garbi Anne-Sohpie = 29
+Skrijelj Sabrina = 29
+Denis Justine = 26
+Job Margot = 30
+Schneider Pierre = 29
+Lemal Daniel = 30
+Gravejat Mélanie = 32
+Weyders Valentine = 28
+Stelitano Yoann = 29
+Ziri Nabila = 28
+Smili Catherine = 28
+Ze Npoah Rose Christelle = 30
+Casanova Samuel = 29
+Pignatelli Gina = 26
+Delaleux Héléna = 24
+Adamski Yoaan = 28
+Garattoni Charlène = 29
+Bret Brandon = 31
+Laria Claire = 26
+Scholtus Tiphaine = 27
+Gillet Sabrina = 27
+Lett Eva = 29
+Loukili El Mehdi = 27
+Escure Tatiana = 30
+Rock Mélissa = 27
+El Filali Camilia = 30
